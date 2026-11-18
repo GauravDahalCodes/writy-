@@ -6,7 +6,7 @@ Writy is a lightweight Windows notes app with rich-text formatting, light and da
 
 ## Install on Windows
 
-Download and run `WritySetup.exe` from the latest GitHub Release. The per-user installer creates a Start Menu shortcut, so you can search for **Writy** after installation. No administrator access is required.
+Download and run the [Writy Windows installer](https://github.com/GauravDahalCodes/writy-/releases/latest/download/WritySetup.exe) from the latest GitHub Release. The per-user installer creates a Start Menu shortcut, so you can search for **Writy** after installation. No administrator access is required.
 
 The app's download page is `index.html`. Enable GitHub Pages for the repository root, then attach `WritySetup.exe` to a GitHub Release. The page links to the latest release automatically.
 
